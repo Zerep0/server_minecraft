@@ -1,0 +1,448 @@
+[
+  {
+    "day": 1,
+    "id": "1",
+    "items": [
+      {
+        "item": "cobblemon:poke_ball",
+        "amount": 64,
+        "name": "Día 1 · Arranque Brutal"
+      },
+      { "item": "cobblemon:potion", "amount": 24 },
+      { "item": "cobblemon:revive", "amount": 8 },
+      { "item": "cobblemon:exp_candy_xs", "amount": 32 },
+      { "item": "casinorocket:bill_50k", "amount": 1, "name": "Bono Diario" }
+    ]
+  },
+  {
+    "day": 2,
+    "id": "2",
+    "items": [
+      { "item": "cobblemon:great_ball", "amount": 32, "name": "Día 2 · Caza" },
+      { "item": "cobblemon:super_potion", "amount": 18 },
+      { "item": "cobblemon:exp_candy_xs", "amount": 40 },
+      { "item": "minecraft:ender_pearl", "amount": 8 },
+      { "item": "casinorocket:bill_50k", "amount": 1, "name": "Bono Diario" }
+    ]
+  },
+  {
+    "day": 3,
+    "id": "3",
+    "items": [
+      {
+        "item": "cobblemon:ultra_ball",
+        "amount": 18,
+        "name": "Día 3 · Captura Seria"
+      },
+      { "item": "cobblemon:hyper_potion", "amount": 12 },
+      { "item": "cobblemon:full_heal", "amount": 10 },
+      { "item": "cobblemon:exp_candy_s", "amount": 12 },
+      { "item": "casinorocket:bill_50k", "amount": 1, "name": "Bono Diario" }
+    ]
+  },
+  {
+    "day": 4,
+    "id": "4",
+    "items": [
+      {
+        "item": "cobblemon:quick_ball",
+        "amount": 24,
+        "name": "Día 4 · Shiny Hunt (Speed)"
+      },
+      { "item": "cobblemon:dusk_ball", "amount": 24 },
+      { "item": "cobblemon:timer_ball", "amount": 24 },
+      { "item": "cobblemon:exp_candy_s", "amount": 16 },
+      { "item": "casinorocket:bill_50k", "amount": 1, "name": "Bono Diario" }
+    ]
+  },
+  {
+    "day": 5,
+    "id": "5",
+    "items": [
+      {
+        "item": "cobblemon:rare_candy",
+        "amount": 4,
+        "name": "Día 5 · Boost de Nivel"
+      },
+      { "item": "cobblemon:exp_candy_m", "amount": 8 },
+      { "item": "cobblemon:revive", "amount": 12 },
+      { "item": "minecraft:diamond", "amount": 6 },
+      { "item": "casinorocket:bill_50k", "amount": 1, "name": "Bono Diario" }
+    ]
+  },
+
+  {
+    "day": 6,
+    "id": "6",
+    "items": [
+      {
+        "item": "cobblemon:luxury_ball",
+        "amount": 24,
+        "name": "Día 6 · Estilo"
+      },
+      { "item": "cobblemon:friend_ball", "amount": 16 },
+      { "item": "cobblemon:level_ball", "amount": 16 },
+      { "item": "cobblemon:potion", "amount": 16 },
+      { "item": "casinorocket:bill_50k", "amount": 1, "name": "Bono Diario" }
+    ]
+  },
+  {
+    "day": 7,
+    "id": "7",
+    "items": [
+      {
+        "item": "cobblemon:ultra_ball",
+        "amount": 32,
+        "name": "Día 7 · Mini-Jackpot"
+      },
+      { "item": "cobblemon:max_revive", "amount": 6 },
+      { "item": "cobblemon:max_potion", "amount": 10 },
+      { "item": "minecraft:totem_of_undying", "amount": 1 },
+      { "item": "casinorocket:bill_100k", "amount": 1, "name": "Bono Diario" }
+    ]
+  },
+
+  {
+    "day": 8,
+    "id": "8",
+    "items": [
+      {
+        "item": "cobblemon:poke_ball",
+        "amount": 128,
+        "name": "Día 8 · Resupply Overkill"
+      },
+      { "item": "cobblemon:great_ball", "amount": 64 },
+      { "item": "cobblemon:ultra_ball", "amount": 32 },
+      { "item": "cobblemon:exp_candy_s", "amount": 24 },
+      { "item": "casinorocket:bill_50k", "amount": 1, "name": "Bono Diario" }
+    ]
+  },
+  {
+    "day": 9,
+    "id": "9",
+    "items": [
+      {
+        "item": "cobblemon:hyper_potion",
+        "amount": 24,
+        "name": "Día 9 · Médico"
+      },
+      { "item": "cobblemon:full_heal", "amount": 18 },
+      { "item": "cobblemon:revive", "amount": 18 },
+      { "item": "cobblemon:super_potion", "amount": 18 },
+      { "item": "casinorocket:bill_50k", "amount": 1, "name": "Bono Diario" }
+    ]
+  },
+  {
+    "day": 10,
+    "id": "10",
+    "items": [
+      {
+        "item": "cobblemon:rare_candy",
+        "amount": 6,
+        "name": "Día 10 · Entreno Potente"
+      },
+      { "item": "cobblemon:exp_candy_m", "amount": 10 },
+      { "item": "cobblemon:exp_candy_l", "amount": 2 },
+      { "item": "minecraft:diamond", "amount": 10 },
+      { "item": "casinorocket:bill_50k", "amount": 1, "name": "Bono Diario" }
+    ]
+  },
+
+  {
+    "day": 11,
+    "id": "11",
+    "items": [
+      {
+        "item": "cobblemon:everstone",
+        "amount": 2,
+        "name": "Día 11 · Breeding"
+      },
+      { "item": "cobblemon:destiny_knot", "amount": 1 },
+      { "item": "cobblemon:exp_candy_s", "amount": 24 },
+      { "item": "minecraft:gold_ingot", "amount": 32 },
+      { "item": "casinorocket:bill_50k", "amount": 1, "name": "Bono Diario" }
+    ]
+  },
+  {
+    "day": 12,
+    "id": "12",
+    "items": [
+      {
+        "item": "cobblemon:protein",
+        "amount": 10,
+        "name": "Día 12 · EVs (Atk)"
+      },
+      { "item": "cobblemon:iron", "amount": 10 },
+      { "item": "cobblemon:carbos", "amount": 10 },
+      { "item": "cobblemon:calcium", "amount": 10 },
+      { "item": "casinorocket:bill_50k", "amount": 1, "name": "Bono Diario" }
+    ]
+  },
+  {
+    "day": 13,
+    "id": "13",
+    "items": [
+      {
+        "item": "cobblemon:hp_up",
+        "amount": 10,
+        "name": "Día 13 · EVs (Bulk)"
+      },
+      { "item": "cobblemon:zinc", "amount": 10 },
+      { "item": "cobblemon:pp_up", "amount": 6 },
+      { "item": "cobblemon:pp_max", "amount": 2 },
+      { "item": "casinorocket:bill_50k", "amount": 1, "name": "Bono Diario" }
+    ]
+  },
+  {
+    "day": 14,
+    "id": "14",
+    "items": [
+      {
+        "item": "cobblemon:ultra_ball",
+        "amount": 48,
+        "name": "Día 14 · Fin de Semana II"
+      },
+      { "item": "cobblemon:rare_candy", "amount": 8 },
+      { "item": "cobblemon:max_revive", "amount": 8 },
+      { "item": "minecraft:netherite_ingot", "amount": 1 },
+      { "item": "casinorocket:bill_100k", "amount": 2, "name": "Bono Diario" }
+    ]
+  },
+
+  {
+    "day": 15,
+    "id": "15",
+    "items": [
+      {
+        "item": "cobblemon:ability_capsule",
+        "amount": 1,
+        "name": "Día 15 · Habilidades"
+      },
+      { "item": "cobblemon:ability_patch", "amount": 1 },
+      { "item": "cobblemon:exp_candy_m", "amount": 12 },
+      { "item": "minecraft:diamond", "amount": 12 },
+      { "item": "casinorocket:bill_50k", "amount": 1, "name": "Bono Diario" }
+    ]
+  },
+  {
+    "day": 16,
+    "id": "16",
+    "items": [
+      { "item": "cobblemon:zinc", "amount": 6, "name": "Día 16 · IVs" },
+      { "item": "cobblemon:ability_capsule", "amount": 1 },
+      { "item": "cobblemon:rare_candy", "amount": 6 },
+      { "item": "minecraft:ancient_debris", "amount": 6 },
+      { "item": "casinorocket:bill_50k", "amount": 1, "name": "Bono Diario" }
+    ]
+  },
+  {
+    "day": 17,
+    "id": "17",
+    "items": [
+      {
+        "item": "cobblemon:heal_ball",
+        "amount": 24,
+        "name": "Día 17 · Captura + Heal"
+      },
+      { "item": "cobblemon:net_ball", "amount": 24 },
+      { "item": "cobblemon:dive_ball", "amount": 24 },
+      { "item": "cobblemon:exp_candy_s", "amount": 24 },
+      { "item": "casinorocket:bill_50k", "amount": 1, "name": "Bono Diario" }
+    ]
+  },
+  {
+    "day": 18,
+    "id": "18",
+    "items": [
+      {
+        "item": "cobblemon:repeat_ball",
+        "amount": 24,
+        "name": "Día 18 · Farm Dex"
+      },
+      { "item": "cobblemon:quick_ball", "amount": 24 },
+      { "item": "cobblemon:timer_ball", "amount": 24 },
+      { "item": "minecraft:emerald", "amount": 24 },
+      { "item": "casinorocket:bill_50k", "amount": 1, "name": "Bono Diario" }
+    ]
+  },
+  {
+    "day": 19,
+    "id": "19",
+    "items": [
+      {
+        "item": "cobblemon:max_potion",
+        "amount": 16,
+        "name": "Día 19 · Full Support"
+      },
+      { "item": "cobblemon:full_restore", "amount": 8 },
+      { "item": "cobblemon:max_revive", "amount": 10 },
+      { "item": "minecraft:totem_of_undying", "amount": 1 },
+      { "item": "casinorocket:bill_100k", "amount": 1, "name": "Bono Diario" }
+    ]
+  },
+  {
+    "day": 20,
+    "id": "20",
+    "items": [
+      {
+        "item": "cobblemon:rare_candy",
+        "amount": 10,
+        "name": "Día 20 · Power Leveling"
+      },
+      { "item": "cobblemon:exp_candy_l", "amount": 6 },
+      { "item": "cobblemon:exp_candy_xl", "amount": 2 },
+      { "item": "minecraft:netherite_ingot", "amount": 1 },
+      { "item": "casinorocket:bill_50k", "amount": 1, "name": "Bono Diario" }
+    ]
+  },
+
+  {
+    "day": 21,
+    "id": "21",
+    "items": [
+      {
+        "item": "cobblemon:master_ball",
+        "amount": 1,
+        "name": "Día 21 · Premio de Campeón"
+      },
+      { "item": "cobblemon:ultra_ball", "amount": 64 },
+      { "item": "cobblemon:rare_candy", "amount": 12 },
+      { "item": "minecraft:diamond", "amount": 24 },
+      { "item": "casinorocket:bill_100k", "amount": 3, "name": "Bono Diario" }
+    ]
+  },
+
+  {
+    "day": 22,
+    "id": "22",
+    "items": [
+      {
+        "item": "cobblemon:shiny_stone",
+        "amount": 1,
+        "name": "Día 22 · Shiny Vibes"
+      },
+      { "item": "cobblemon:quick_ball", "amount": 48 },
+      { "item": "cobblemon:dusk_ball", "amount": 48 },
+      { "item": "minecraft:ender_pearl", "amount": 16 },
+      { "item": "casinorocket:bill_50k", "amount": 1, "name": "Bono Diario" }
+    ]
+  },
+  {
+    "day": 23,
+    "id": "23",
+    "items": [
+      {
+        "item": "cobblemon:exp_share",
+        "amount": 1,
+        "name": "Día 23 · QoL Entrenador"
+      },
+      { "item": "cobblemon:rare_candy", "amount": 8 },
+      { "item": "cobblemon:exp_candy_xl", "amount": 3 },
+      { "item": "minecraft:diamond", "amount": 18 },
+      { "item": "casinorocket:bill_50k", "amount": 1, "name": "Bono Diario" }
+    ]
+  },
+  {
+    "day": 24,
+    "id": "24",
+    "items": [
+      {
+        "item": "cobblemon:moon_stone",
+        "amount": 2,
+        "name": "Día 24 · Evoluciones"
+      },
+      { "item": "cobblemon:fire_stone", "amount": 2 },
+      { "item": "cobblemon:water_stone", "amount": 2 },
+      { "item": "cobblemon:thunder_stone", "amount": 2 },
+      { "item": "casinorocket:bill_50k", "amount": 1, "name": "Bono Diario" }
+    ]
+  },
+  {
+    "day": 25,
+    "id": "25",
+    "items": [
+      {
+        "item": "cobblemon:leaf_stone",
+        "amount": 2,
+        "name": "Día 25 · Evoluciones II"
+      },
+      { "item": "cobblemon:sun_stone", "amount": 2 },
+      { "item": "cobblemon:dusk_stone", "amount": 2 },
+      { "item": "cobblemon:dawn_stone", "amount": 2 },
+      { "item": "casinorocket:bill_50k", "amount": 1, "name": "Bono Diario" }
+    ]
+  },
+  {
+    "day": 26,
+    "id": "26",
+    "items": [
+      {
+        "item": "cobblemon:ultra_ball",
+        "amount": 96,
+        "name": "Día 26 · Ultra Spam"
+      },
+      { "item": "cobblemon:full_restore", "amount": 12 },
+      { "item": "cobblemon:max_revive", "amount": 12 },
+      { "item": "minecraft:netherite_ingot", "amount": 2 },
+      { "item": "casinorocket:bill_50k", "amount": 1, "name": "Bono Diario" }
+    ]
+  },
+  {
+    "day": 27,
+    "id": "27",
+    "items": [
+      {
+        "item": "cobblemon:rare_candy",
+        "amount": 16,
+        "name": "Día 27 · Endgame XP"
+      },
+      { "item": "cobblemon:exp_candy_xl", "amount": 6 },
+      { "item": "cobblemon:protein", "amount": 1 },
+      { "item": "minecraft:diamond", "amount": 32 },
+      { "item": "casinorocket:bill_50k", "amount": 1, "name": "Bono Diario" }
+    ]
+  },
+  {
+    "day": 28,
+    "id": "28",
+    "items": [
+      {
+        "item": "cobblemon:master_ball",
+        "amount": 1,
+        "name": "Día 28 · Otra Master (Sí)"
+      },
+      { "item": "cobblemon:ultra_ball", "amount": 128 },
+      { "item": "cobblemon:rare_candy", "amount": 10 },
+      { "item": "minecraft:totem_of_undying", "amount": 2 },
+      { "item": "casinorocket:bill_500k", "amount": 1, "name": "Bono Diario" }
+    ]
+  },
+  {
+    "day": 29,
+    "id": "29",
+    "items": [
+      { "item": "minecraft:elytra", "amount": 1, "name": "Día 29 · Movilidad" },
+      { "item": "minecraft:firework_rocket", "amount": 128 },
+      { "item": "minecraft:netherite_upgrade_smithing_template", "amount": 1 },
+      { "item": "minecraft:netherite_ingot", "amount": 2 },
+      { "item": "casinorocket:bill_50k", "amount": 1, "name": "Bono Diario" }
+    ]
+  },
+  {
+    "day": 30,
+    "id": "30",
+    "items": [
+      {
+        "item": "cobblemon:master_ball",
+        "amount": 1,
+        "name": "Día 30 · GRAN FINAL"
+      },
+      { "item": "cobblemon:ability_patch", "amount": 2 },
+      { "item": "cobblemon:calcium", "amount": 2 },
+      { "item": "cobblemon:rare_candy", "amount": 24 },
+      { "item": "minecraft:netherite_ingot", "amount": 4 },
+      { "item": "minecraft:diamond", "amount": 64 },
+      { "item": "casinorocket:bill_50k", "amount": 1, "name": "Bono Diario" }
+    ]
+  }
+]

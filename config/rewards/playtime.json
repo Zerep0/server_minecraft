@@ -1,0 +1,136 @@
+[
+  {
+    "hours": 0.25,
+    "id": "0.25",
+    "items": [
+      {
+        "item": "cobblemon:poke_ball",
+        "amount": 16,
+        "name": "15m · Pack Rápido"
+      },
+      { "item": "cobblemon:potion", "amount": 6 },
+      { "item": "cobblemon:exp_candy_xs", "amount": 8 }
+    ]
+  },
+  {
+    "hours": 0.5,
+    "id": "0.5",
+    "items": [
+      { "item": "cobblemon:great_ball", "amount": 12, "name": "30m · Caza" },
+      { "item": "cobblemon:super_potion", "amount": 6 },
+      { "item": "cobblemon:revive", "amount": 2 },
+      { "item": "cobblemon:exp_candy_xs", "amount": 12 }
+    ]
+  },
+  {
+    "hours": 0.75,
+    "id": "0.75",
+    "items": [
+      {
+        "item": "cobblemon:quick_ball",
+        "amount": 10,
+        "name": "45m · Shiny Speed"
+      },
+      { "item": "cobblemon:dusk_ball", "amount": 10 },
+      { "item": "cobblemon:timer_ball", "amount": 10 }
+    ]
+  },
+  {
+    "hours": 1.0,
+    "id": "1.0",
+    "items": [
+      {
+        "item": "cobblemon:ultra_ball",
+        "amount": 10,
+        "name": "1h · Ultra Pack"
+      },
+      { "item": "cobblemon:hyper_potion", "amount": 6 },
+      { "item": "cobblemon:full_heal", "amount": 4 },
+      { "item": "cobblemon:exp_candy_s", "amount": 6 }
+    ]
+  },
+  {
+    "hours": 2.0,
+    "id": "2.0",
+    "items": [
+      {
+        "item": "cobblemon:ultra_ball",
+        "amount": 18,
+        "name": "2h · Trainer Booster"
+      },
+      { "item": "cobblemon:max_potion", "amount": 4 },
+      { "item": "cobblemon:max_revive", "amount": 3 },
+      { "item": "cobblemon:rare_candy", "amount": 2 }
+    ]
+  },
+  {
+    "hours": 3.0,
+    "id": "3.0",
+    "items": [
+      {
+        "item": "cobblemon:luxury_ball",
+        "amount": 16,
+        "name": "3h · Estilo & Catch"
+      },
+      { "item": "cobblemon:friend_ball", "amount": 8 },
+      { "item": "cobblemon:level_ball", "amount": 8 },
+      { "item": "cobblemon:exp_candy_m", "amount": 4 }
+    ]
+  },
+  {
+    "hours": 4.0,
+    "id": "4.0",
+    "items": [
+      {
+        "item": "cobblemon:rare_candy",
+        "amount": 5,
+        "name": "4h · Power Level"
+      },
+      { "item": "cobblemon:exp_candy_l", "amount": 2 },
+      { "item": "cobblemon:max_revive", "amount": 4 },
+      { "item": "minecraft:diamond", "amount": 6 }
+    ]
+  },
+  {
+    "hours": 6.0,
+    "id": "6.0",
+    "items": [
+      {
+        "item": "cobblemon:ability_capsule",
+        "amount": 1,
+        "name": "6h · Habilidad"
+      },
+      { "item": "cobblemon:protein", "amount": 3 },
+      { "item": "cobblemon:rare_candy", "amount": 6 },
+      { "item": "minecraft:netherite_ingot", "amount": 1 }
+    ]
+  },
+  {
+    "hours": 8.0,
+    "id": "8.0",
+    "items": [
+      {
+        "item": "cobblemon:ability_patch",
+        "amount": 1,
+        "name": "8h · Hidden Ability"
+      },
+      { "item": "cobblemon:zinc", "amount": 1 },
+      { "item": "cobblemon:exp_candy_xl", "amount": 2 },
+      { "item": "minecraft:totem_of_undying", "amount": 1 }
+    ]
+  },
+  {
+    "hours": 12.0,
+    "id": "12.0",
+    "items": [
+      {
+        "item": "cobblemon:master_ball",
+        "amount": 1,
+        "name": "12h · Premio Leyenda"
+      },
+      { "item": "cobblemon:ultra_ball", "amount": 64 },
+      { "item": "cobblemon:rare_candy", "amount": 12 },
+      { "item": "minecraft:netherite_upgrade_smithing_template", "amount": 1 }
+    ]
+  }
+]

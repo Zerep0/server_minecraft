@@ -1,0 +1,1 @@
+say PING_FUNC_OK

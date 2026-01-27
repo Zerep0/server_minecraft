@@ -1,0 +1,131 @@
+{
+  "bank": [
+    {
+      "item": "minecraft:emerald_block",
+      "price": "100"
+    },
+    {
+      "item": "minecraft:elytra",
+      "price": 25000
+    },
+    {
+      "item": "cobblemon:relic_coin",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:relic_coin_pouch",
+      "price": 475
+    },
+    {
+      "item": "cobblemon:relic_coin_sack",
+      "price": 4500
+    },
+    {
+      "item": "cobblemon:potion",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:super_potion",
+      "price": 175
+    },
+    {
+      "item": "cobblemon:hyper_potion",
+      "price": 375
+    },
+    {
+      "item": "cobblemon:max_potion",
+      "price": 625
+    },
+    {
+      "item": "cobblemon:full_restore",
+      "price": 750
+    },
+    {
+      "item": "cobblemon:ether",
+      "price": 300
+    },
+    {
+      "item": "cobblemon:max_ether",
+      "price": 500
+    },
+    {
+      "item": "cobblemon:elixir",
+      "price": 750
+    },
+    {
+      "item": "cobblemon:max_elixir",
+      "price": 1125
+    },
+    {
+      "item": "cobblemon:revive",
+      "price": 500
+    },
+    {
+      "item": "cobblemon:max_revive",
+      "price": 1000
+    },
+    {
+      "item": "cobblemon:hp_up",
+      "price": 2500
+    },
+    {
+      "item": "cobblemon:protein",
+      "price": 2500
+    },
+    {
+      "item": "cobblemon:iron",
+      "price": 2500
+    },
+    {
+      "item": "cobblemon:calcium",
+      "price": 2500
+    },
+    {
+      "item": "cobblemon:zinc",
+      "price": 2500
+    },
+    {
+      "item": "cobblemon:carbos",
+      "price": 2500
+    },
+    {
+      "item": "cobblemon:pp_up",
+      "price": 2500
+    },
+    {
+      "item": "cobblemon:pp_max",
+      "price": 3500
+    },
+    {
+      "item": "lumymon:glacier_feather",
+      "price": 5000
+    },
+    {
+      "item": "lumymon:thunder_feather",
+      "price": 5000
+    },
+    {
+      "item": "lumymon:ember_feather",
+      "price": 5000
+    },
+    {
+      "item": "lumymon:soul_feather",
+      "price": 30000
+    },
+    { "item": "casinorocket:copper_coin", "price": 1000 },
+    { "item": "casinorocket:iron_coin", "price": 10000 },
+    { "item": "casinorocket:gold_coin", "price": 100000 },
+    { "item": "casinorocket:diamond_coin", "price": 500000 },
+
+    { "item": "casinorocket:basic_chip", "price": 10 },
+    { "item": "casinorocket:red_chip", "price": 50 },
+    { "item": "casinorocket:blue_chip", "price": 100 },
+    { "item": "casinorocket:purple_chip", "price": 500 },
+    { "item": "casinorocket:copper_chip", "price": 1000 },
+    { "item": "casinorocket:iron_chip", "price": 10000 },
+    { "item": "casinorocket:emerald_chip", "price": 100000 },
+    { "item": "casinorocket:gold_chip", "price": 1000000 },
+    { "item": "casinorocket:diamond_chip", "price": 10000000 },
+    { "item": "casinorocket:netherite_chip", "price": 50000000 }
+  ]
+}

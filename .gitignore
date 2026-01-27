@@ -1,6 +1,31 @@
-world/
+# --- Minecraft runtime ---
 logs/
 crash-reports/
-mods/
+world*/
+*.log
+latest.log
+
+# --- Fabric / mod tooling / debug ---
+.mixin.out/
+stackdeobf_mappings/
+debug/
+*.bak.*
+*.bak
+*.tmp
+
+# --- Not useful to version ---
+usercache.json
 libraries/
 versions/
+cache/
+*.jar
+
+# --- OS/editor ---
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# --- Optional: if you do NOT want to version mods folder ---
+mods/
+
