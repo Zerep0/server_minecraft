@@ -1,7 +1,21 @@
 {
   "betValues": [
-    10, 25, 50, 100, 250, 500, 1000, 5000, 10000, 25000, 50000, 100000, 250000,
-    500000, 1000000, 5000000
+    10,
+    25,
+    50,
+    100,
+    250,
+    500,
+    1000,
+    5000,
+    10000,
+    25000,
+    50000,
+    100000,
+    250000,
+    500000,
+    1000000,
+    5000000
   ],
   "betMultipliers": {
     "mode1": 1,
@@ -12,40 +26,40 @@
     "reelSize": 256,
     "reel1": {
       "counts": {
-        "CHERRY": 48,
-        "BULBASAUR": 32,
-        "SQUIRTLE": 28,
-        "CHARMANDER": 24,
-        "PIKACHU": 18,
-        "MEW": 12,
-        "ROCKET": 10,
-        "SEVEN": 16
+        "CHERRY": 30,
+        "BULBASAUR": 45,
+        "SQUIRTLE": 40,
+        "CHARMANDER": 34,
+        "PIKACHU": 28,
+        "MEW": 26,
+        "ROCKET": 22,
+        "SEVEN": 23
       },
       "fillSymbol": "HAUNTER"
     },
     "reel2": {
       "counts": {
-        "CHERRY": 48,
-        "BULBASAUR": 32,
-        "SQUIRTLE": 28,
-        "CHARMANDER": 24,
-        "PIKACHU": 18,
-        "MEW": 12,
-        "ROCKET": 10,
-        "SEVEN": 16
+        "CHERRY": 30,
+        "BULBASAUR": 40,
+        "SQUIRTLE": 35,
+        "CHARMANDER": 30,
+        "PIKACHU": 26,
+        "MEW": 24,
+        "ROCKET": 33,
+        "SEVEN": 27
       },
       "fillSymbol": "HAUNTER"
     },
     "reel3": {
       "counts": {
-        "CHERRY": 48,
-        "BULBASAUR": 32,
-        "SQUIRTLE": 28,
-        "CHARMANDER": 24,
-        "PIKACHU": 18,
-        "MEW": 12,
-        "ROCKET": 10,
-        "SEVEN": 16
+        "CHERRY": 30,
+        "BULBASAUR": 40,
+        "SQUIRTLE": 35,
+        "CHARMANDER": 30,
+        "PIKACHU": 26,
+        "MEW": 24,
+        "ROCKET": 33,
+        "SEVEN": 27
       },
       "fillSymbol": "HAUNTER"
     }

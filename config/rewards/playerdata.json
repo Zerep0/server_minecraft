@@ -1,42 +1,82 @@
 [
   {
     "1591c3c9-5e6c-3826-987b-477a6e28c50b": {
-      "playtimeSeconds": 6815,
-      "currentStreak": 1,
-      "lastJoin": 1769538817872,
-      "lastRewardTime": 1769531631522,
-      "claimedDaily": [],
-      "claimedPlaytime": []
+      "playtimeSeconds": 27885,
+      "currentStreak": 2,
+      "lastJoin": 1769620645198,
+      "lastRewardTime": 1769618032098,
+      "claimedDaily": [
+        "1"
+      ],
+      "claimedPlaytime": [
+        "0.25",
+        "0.5",
+        "0.75",
+        "1.0",
+        "2.0",
+        "3.0"
+      ]
     },
     "2fdac52f-3bac-397e-a828-1b6b7d002711": {
-      "playtimeSeconds": 2900,
+      "playtimeSeconds": 5250,
       "currentStreak": 1,
-      "lastJoin": 1769534841042,
+      "lastJoin": 1769609084648,
       "lastRewardTime": 1769531937918,
       "claimedDaily": [],
       "claimedPlaytime": []
     },
-    "88320e3a-bf13-37b4-9306-d351b7099577": {
-      "playtimeSeconds": 350,
+    "7e099c21-582c-30ec-8cd2-21c989c7c9c2": {
+      "playtimeSeconds": 2990,
       "currentStreak": 1,
-      "lastJoin": 1769538817872,
+      "lastJoin": 1769612349648,
+      "lastRewardTime": 1769596244928,
+      "claimedDaily": [
+        "1"
+      ],
+      "claimedPlaytime": [
+        "0.25",
+        "0.5"
+      ]
+    },
+    "88320e3a-bf13-37b4-9306-d351b7099577": {
+      "playtimeSeconds": 24715,
+      "currentStreak": 1,
+      "lastJoin": 1769569744381,
       "lastRewardTime": 1769538473559,
+      "claimedDaily": [
+        "1"
+      ],
+      "claimedPlaytime": [
+        "0.25",
+        "0.5",
+        "0.75",
+        "1.0",
+        "2.0",
+        "3.0",
+        "4.0"
+      ]
+    },
+    "38a94ec1-96f6-3861-b0c9-6e10c5af8ca1": {
+      "playtimeSeconds": 925,
+      "currentStreak": 1,
+      "lastJoin": 1769559495636,
+      "lastRewardTime": 1769558570097,
       "claimedDaily": [],
       "claimedPlaytime": []
     },
     "78e2e925-451f-3be5-bb7c-9c2e70d2fa95": {
-      "playtimeSeconds": 1905,
+      "playtimeSeconds": 14720,
       "currentStreak": 1,
-      "lastJoin": 1769538817872,
+      "lastJoin": 1769604501747,
       "lastRewardTime": 1769536476042,
       "claimedDaily": [],
       "claimedPlaytime": []
     },
     "6549a357-7cb1-3dbf-afe6-3977231647bf": {
-      "playtimeSeconds": 7150,
-      "currentStreak": 1,
-      "lastJoin": 1769538817872,
-      "lastRewardTime": 1769531127292,
+      "playtimeSeconds": 8160,
+      "currentStreak": 2,
+      "lastJoin": 1769620645198,
+      "lastRewardTime": 1769619626367,
       "claimedDaily": [
         "1"
       ],
@@ -51,18 +91,35 @@
       "claimedPlaytime": []
     },
     "d298a41d-8bd6-3382-ab41-70d8bcdecc4f": {
-      "playtimeSeconds": 3345,
-      "currentStreak": 1,
-      "lastJoin": 1769538817872,
-      "lastRewardTime": 1769526645198,
+      "playtimeSeconds": 8435,
+      "currentStreak": 2,
+      "lastJoin": 1769619995198,
+      "lastRewardTime": 1769614886005,
       "claimedDaily": [],
       "claimedPlaytime": []
     },
-    "8f3e9eb5-20f2-31ac-b576-13920618c567": {
-      "playtimeSeconds": 3970,
+    "c2669ae0-545e-3484-9776-7c84b2723c96": {
+      "playtimeSeconds": 28620,
       "currentStreak": 1,
-      "lastJoin": 1769533583142,
-      "lastRewardTime": 1769526631743,
+      "lastJoin": 1769619941031,
+      "lastRewardTime": 1769545577448,
+      "claimedDaily": [
+        "1"
+      ],
+      "claimedPlaytime": [
+        "0.25",
+        "0.5",
+        "0.75",
+        "1.0",
+        "2.0",
+        "3.0"
+      ]
+    },
+    "8f3e9eb5-20f2-31ac-b576-13920618c567": {
+      "playtimeSeconds": 20375,
+      "currentStreak": 2,
+      "lastJoin": 1769615755098,
+      "lastRewardTime": 1769615525998,
       "claimedDaily": [
         "1"
       ],
