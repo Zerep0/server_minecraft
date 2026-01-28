@@ -19,8 +19,8 @@
   ],
   "betMultipliers": {
     "mode1": 1,
-    "mode2": 3,
-    "mode3": 5
+    "mode2": 2,
+    "mode3": 3
   },
   "reels": {
     "reelSize": 256,
