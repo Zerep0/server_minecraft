@@ -18,7 +18,7 @@
 	#The interval in ticks at which a spawn attempt is made per player.
 	# Default: 180
 	# Range: 1 ~ 2147483646
-	spawnIntervalTicks = 180
+	spawnIntervalTicks = 1500
 	#━━━━━━━━━━
 	#The spawn interval ticks will grow towards this value based of how many trainers are already
 	#spawned in for a player. For example if a player has 0 trainers spawned for them the spawn
@@ -57,13 +57,13 @@
 	#Spawn cap of trainers per player.
 	# Default: 12
 	# Range: 0 ~ 2147483646
-	maxTrainersPerPlayer = 12
+	maxTrainersPerPlayer = 1
 	#━━━━━━━━━━
 	#Total trainer spawn cap. This value may be increased for servers with higher expected
 	#player numbers (> 4), for example (|players| + 1)*maxTrainersPerPlayer.
 	# Default: 60
 	# Range: 0 ~ 2147483646
-	maxTrainersTotal = 60
+	maxTrainersTotal = 40
 	#━━━━━━━━━━
 	#The maximum level difference between the strongest pokemon in the team of a
 	#player (at or below that players level cap) and the strongest pokemon in the
@@ -114,7 +114,7 @@
 	#━━━━━━━━━━
 	#Determines if trainers may force players into a battle if they look at each other for
 	#a certain amount if time.
-	forceBattleOnSight = true
+	forceBattleOnSight = false
 	#━━━━━━━━━━
 	#Max distance in blocks at which trainers may start a battle on sight.
 	# Default: 8.0
